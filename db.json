@@ -236,7 +236,7 @@
     {
       "id": 2,
       "name": "Hoàng Công Kha",
-      "image": "images/alberto.png",
+      "image": "images/kha.png",
       "designation": "Archivist Officer",
       "abbr": "CTO",
       "featured": false,
@@ -245,7 +245,7 @@
     {
       "id": 3,
       "name": "Lý Gia Hân",
-      "image": "images/alberto.png",
+      "image": "images/han.png",
       "designation": "Executive Librarian",
       "abbr": "EC",
       "featured": true,
